@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 👋:
 🔭 I’m currently working on a project called Truck Taxi, a platform for booking trucks to transport goods.<br>👯 I’m looking to collaborate on interesting full-stack projects that solve real-world problems.<br>🤝 I’m looking for help with scaling backend services and optimizing database performance.<br>🌱 I’m currently learning full-stack development, focusing on Node.js, Express, Prisma ORM, and deployment.<br>💬 Ask me about frontend development, especially React.js and building responsive UIs.<br>⚡ Fun fact: I love building side projects that blend tech + everyday logistics, and I’m a big fan of clean UI!
 
 
